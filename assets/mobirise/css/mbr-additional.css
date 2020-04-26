@@ -13105,9 +13105,25 @@ section.lazy-placeholder:after {
 .cid-rXinT7qmFP .head-item {
   text-align: center;
 }
+.cid-rXitGCYJRt {
+  padding-top: 45px;
+  padding-bottom: 45px;
+  background-color: #efefef;
+}
+.cid-rXitGCYJRt .mbr-text,
+.cid-rXitGCYJRt blockquote {
+  color: #767676;
+}
+.cid-rXitGCYJRt .mbr-text {
+  color: #000000;
+  text-align: center;
+}
+.cid-rXitGCYJRt .mbr-text DIV {
+  text-align: left;
+}
 .cid-rXiqw5PUmz {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 120px;
   background-color: #efefef;
 }
 .cid-rXiqw5PUmz .card-img {
